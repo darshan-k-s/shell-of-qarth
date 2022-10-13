@@ -1,34 +1,42 @@
+  
+  ______  __                __ __                ______        ______                      __     __       
+ /      \|  \              |  \  \              /      \      /      \                    |  \   |  \      
+|  ▓▓▓▓▓▓\ ▓▓____   ______ | ▓▓ ▓▓      ______ |  ▓▓▓▓▓▓\    |  ▓▓▓▓▓▓\ ______   ______  _| ▓▓_  | ▓▓____  
+| ▓▓___\▓▓ ▓▓    \ /      \| ▓▓ ▓▓     /      \| ▓▓_  \▓▓    | ▓▓  | ▓▓|      \ /      \|   ▓▓ \ | ▓▓    \ 
+ \▓▓    \| ▓▓▓▓▓▓▓\  ▓▓▓▓▓▓\ ▓▓ ▓▓    |  ▓▓▓▓▓▓\ ▓▓ \        | ▓▓  | ▓▓ \▓▓▓▓▓▓\  ▓▓▓▓▓▓\\▓▓▓▓▓▓ | ▓▓▓▓▓▓▓\
+ _\▓▓▓▓▓▓\ ▓▓  | ▓▓ ▓▓    ▓▓ ▓▓ ▓▓    | ▓▓  | ▓▓ ▓▓▓▓        | ▓▓ _| ▓▓/      ▓▓ ▓▓   \▓▓ | ▓▓ __| ▓▓  | ▓▓
+|  \__| ▓▓ ▓▓  | ▓▓ ▓▓▓▓▓▓▓▓ ▓▓ ▓▓    | ▓▓__/ ▓▓ ▓▓          | ▓▓/ \ ▓▓  ▓▓▓▓▓▓▓ ▓▓       | ▓▓|  \ ▓▓  | ▓▓
+ \▓▓    ▓▓ ▓▓  | ▓▓\▓▓     \ ▓▓ ▓▓     \▓▓    ▓▓ ▓▓           \▓▓ ▓▓ ▓▓\▓▓    ▓▓ ▓▓        \▓▓  ▓▓ ▓▓  | ▓▓
+  \▓▓▓▓▓▓ \▓▓   \▓▓ \▓▓▓▓▓▓▓\▓▓\▓▓      \▓▓▓▓▓▓ \▓▓            \▓▓▓▓▓▓\ \▓▓▓▓▓▓▓\▓▓         \▓▓▓▓ \▓▓   \▓▓
+                                                                   \▓▓▓                                    
+                                                                                                           
+                                                                                                           
 
-░██████╗███████╗░█████╗░  ░██████╗██╗░░██╗███████╗██╗░░░░░██╗░░░░░
-██╔════╝██╔════╝██╔══██╗  ██╔════╝██║░░██║██╔════╝██║░░░░░██║░░░░░
-╚█████╗░█████╗░░███████║  ╚█████╗░███████║█████╗░░██║░░░░░██║░░░░░
-░╚═══██╗██╔══╝░░██╔══██║  ░╚═══██╗██╔══██║██╔══╝░░██║░░░░░██║░░░░░
-██████╔╝███████╗██║░░██║  ██████╔╝██║░░██║███████╗███████╗███████╗
-╚═════╝░╚══════╝╚═╝░░╚═╝  ╚═════╝░╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝
 
-You are Lost at Sea and stumble upon a wreckage. The wreckage flickers to life in your hands.
+You were sold by a Westerosi merchant and wake up in Qarth, on the other side of the Narrow sea. 
 
-Welcome to the Sea Shell. The crew will now take you through the process of operating this shell.
+Realising one of the Qarth's Thirteen bought you, 
+you need to collect every Runestone of the crown to help your prince ascend the throne. 
 
 Command Help
 ============
-- forge : Creates a new directory
-- dismantle : Removes an existing empty directory 
-- rename : Renames an existing directory 
-- fish : Returns information about a file 
-- review : Checks for spelling mistakes in a text file 
-- dive : Searches for a file in the file system 
-- engine : Display amount of free memory and used memory in the system
-- treasure-trail : Recursively display all files and directories
-- cargo : View the list of open files in a given directory
-- glance : Concatenates files and prints as output
-- kill : Send a signal to a process to terminate it
-- locate : Print name of current/working directory
-- radar : Display a list of all the active processes along with process ID
+- garnet : Creates a new directory
+- topaz : Removes an existing empty directory 
+- pearl : Renames an existing directory 
+- amethyst : Returns information about a file 
+- turquoise : Checks for spelling mistakes in a text file 
+- aquamarine : Searches for a file in the file system 
+- opal : Display amount of free memory and used memory in the system
+- emerald : Recursively display all files and directories
+- peridot : View the list of open files in a given directory
+- sapphire : Concatenates files and prints as output
+- ruby : Send a signal to a process to terminate it
+- quartz : Print name of current/working directory
+- diamond : Display a list of all the active processes along with process ID
 
-Worry not if you mess up or forget a command. Fuzzy autocomplete helps you find the right command every time.
+Worry not if you misplace or forget a stone. Fuzzy autocomplete helps you find the right stone every time.
 
-For further information on individual commands, try running the commands with the --help flag. Every command
+For further information on individual runestone, try running the commands with the --help flag. Every stone
 has its own manual page as well.
 
-Bon Voyage!
+Valar Morghulis!

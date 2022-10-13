@@ -4,24 +4,44 @@ from os import system
 from fuzzywuzzy import fuzz
 
 # sea shell command names
+# sea_shell_commands = [
+#     "sos", 
+#     "treasure-map", 
+#     "dive", 
+#     "fish", 
+#     "review", 
+#     "forge", 
+#     "dismantle", 
+#     "rename", 
+#     "engine",
+#     "radar",    
+#     "treasure-trail",
+#     "glance",
+#     "locate",
+#     "cargo",
+#     "kill",
+#     "wipe", 
+#     "exit"
+# ]
+
 sea_shell_commands = [
-    "sos", 
-    "treasure-map", 
-    "dive", 
-    "fish", 
-    "review", 
-    "forge", 
-    "dismantle", 
-    "rename", 
-    "engine",
-    "radar",    
-    "treasure-trail",
-    "glance",
-    "locate",
-    "cargo",
-    "kill",
-    "wipe", 
-    "exit"
+    "astapor", # help
+    "runemap", # treasure-map
+    "aquamarine", 
+    "amethyst", 
+    "turquoise", 
+    "garnet", 
+    "topaz", 
+    "pearl", 
+    "opal",
+    "diamond",    
+    "emerald",
+    "sapphire",
+    "quartz",
+    "peridot",
+    "ruby",
+    "lykiri", # clear 
+    "daor" # exit
 ]
 
 def closest_command_finder(command):
