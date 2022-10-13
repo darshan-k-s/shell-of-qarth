@@ -1,0 +1,16 @@
+REVIEW						SEA SHELL COMMAND MANUAL							REVIEW
+
+NAME
+	review -- check text file for spelling mistakes
+
+SYNOPSIS
+	review FILE_NAME
+	review [--help]
+
+DESCRIPTION
+	This manual page documents version 1.0.0 of the review command.
+
+	Check the text file for any spelling mistakes made. If found, report the mistake made and provide a suggestion
+
+AUTHOR
+	Jayanth Shanmugam

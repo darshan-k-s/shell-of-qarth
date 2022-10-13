@@ -1,0 +1,16 @@
+RENAME(1)                                        SEA SHELL COMMAND MANUAL                                   RENAME(1)
+
+NAME
+	rename -- rename a file or directory
+
+SYNOPSIS
+	rename OLD_NAME NEW_NAME
+	rename [--help]
+
+DESCRIPTION
+	This manual page documents version 1.0.0 of the rename command.
+
+	Rename the file with OLD_NAME to NEW_NAME
+
+AUTHOR
+	Jayanth Shanmugam

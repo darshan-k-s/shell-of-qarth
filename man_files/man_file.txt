@@ -1,0 +1,19 @@
+FISH						SEA SHELL COMMAND MANUAL							FISH
+
+NAME
+    fish — determine file type
+
+SYNOPSIS
+    fish FILENAME
+    fish [--help]
+
+DESCRIPTION
+    This manual page documents version 1.0.0 of the fish command.
+
+    file tests each argument in an attempt to classify it
+
+AUTHOR
+    Parthiv Menon
+
+RETURN CODE
+    file returns 0 on success, and non-zero on error.

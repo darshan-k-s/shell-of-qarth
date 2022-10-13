@@ -1,0 +1,5 @@
+Usage: forge [OPTION]... DIRECTORY...
+Create the DIRECTORY(ies), if they do not already exist.
+
+    --help				display this help and exit
+    --version           output version information and exit

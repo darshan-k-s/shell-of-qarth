@@ -1,0 +1,18 @@
+TREASURE-TRAIL						SEA SHELL COMMAND MANUAL							TREASURE-TRAIL
+
+NAME
+	treasure-trail -- Recursively display all files and directories stemming from the input directory
+
+SYNOPSIS
+	treasure-trail [DIRECTORY]
+	treasure-trail [--help]
+
+DESCRIPTION
+	This manual page documents version 1.0.0 of the treasure-trail command.
+
+	Recurses through all entries of the input, displays all files, and repeats the process for all subdirectories.
+
+	If the input directory given is not valid, an error message is thrown.
+
+AUTHOR
+	Raghav Thakar

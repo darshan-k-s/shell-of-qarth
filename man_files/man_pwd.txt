@@ -1,0 +1,15 @@
+LOCATE(1)                                    SEA SHELL COMMAND MANUAL                                      LOCATE(1)
+
+NAME
+	locate -- print name of current/working directory
+
+SYNOPSIS
+	locate
+
+DESCRIPTION
+	This manual page documents version 1.0.0 of the locate command.
+
+	Print the full filename of the current working directory
+
+AUTHOR
+	Parthiv Menon

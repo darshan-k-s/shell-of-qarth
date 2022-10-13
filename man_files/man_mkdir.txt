@@ -1,0 +1,19 @@
+FORGE(1)                                    SEA SHELL COMMAND MANUAL                                      FORGE(1)
+
+NAME
+	forge -- make a directory
+
+SYNOPSIS
+	forge PARENT_DIRECTORY DIRECTORY_NAME
+	forge [--help]
+
+DESCRIPTION
+	This manual page documents version 1.0.0 of the forge command.
+
+	Create a directory in the PARENT_DIRECTORY with the name DIRECTORY_NAME, if they donot already exist
+
+	optional parameters
+		perm -- permissions for the created directory(default = 0777)
+
+AUTHOR
+	Jayanth Shanmugam	

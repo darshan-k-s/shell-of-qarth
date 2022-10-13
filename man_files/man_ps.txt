@@ -1,0 +1,15 @@
+RADAR(1)                                    SEA SHELL COMMAND MANUAL                                      RADAR(1)
+
+NAME
+	radar -- display processes
+
+SYNORADARIS
+	radar [options]
+
+DESCRIPTION
+	This manual page documents version 1.0.0 of the radar command.
+
+	display a list of all the active processes along with their process ID, name and CPU percent.
+
+AUTHOR
+	Jayanth Shanmugam

@@ -1,0 +1,10 @@
+Usage: 
+    1. glance [FILENAME]
+    2. glance [>FILENAME]
+    3. glance [FILENAME1>>FILENAME2]
+    
+View contents of file, Create new file/append input to file, append contents of one file to another
+
+    --help              display this help and exit
+    --version           output version information and exit
+    

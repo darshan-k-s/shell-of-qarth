@@ -1,0 +1,5 @@
+Usage: radar
+Display processes
+
+    --help				display this help and exit
+    --version           output version information and exit
