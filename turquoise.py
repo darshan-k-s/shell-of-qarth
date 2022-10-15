@@ -2,15 +2,7 @@ import requests
 import sys
 
 def spell_check(fname):
-
-    """
-    Function to read a text file one word at a time and check for spelling mistakes, if found report the mistake and provide a suggestion.
-    ...
-    Parameters
-    ----------
-    fname : str
-        The name of the file to check for spelling mistakes
-    """
+    # Reads a text file one word at a time and check for spelling mistakes, if found report the mistake and provide a suggestion.
     
     base_url = "https://api.textgears.com/spelling"
     params = {"key" : "7Py3b8Y9cVjEeAp1", "text" : ""}
@@ -39,8 +31,8 @@ if(sys.argv[1] == '--help'):
     f = open('help_files/help_checker.txt', 'r')
     print(f.read())
 elif(sys.argv[1] == "--version" or sys.argv[1] == "-v"):
-    print("checker (sea shell) 1.0.0")
-elif(sys.argv[1] == "treasure-map"):
+    print("checker (shell of qarth) 1.0.0")
+elif(sys.argv[1] == "runemap"):
     f = open('man_files/man_checker.txt', 'r')
     print(f.read())
 else:

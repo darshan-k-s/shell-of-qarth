@@ -2,15 +2,7 @@ import psutil
 import sys
 
 def free_proc(pid):
-
-    """
-    Function to take process ID and display memory usage details of the process.
-    ...
-    Parameters
-    ----------
-    pid : number
-        Process ID of the file to display details
-    """
+    # Takes process ID and display memory usage details of the process.
 
     flag = 0
     for proc in psutil.process_iter():
@@ -26,10 +18,7 @@ def free_proc(pid):
     print('Percentage of memory used by Process: ', proc.memory_percent())
 
 def free():
-
-    """
-    Function to display memory usage details of all processes.
-    """
+    # Displays memory usage details of all processes.
 
     vm = psutil.virtual_memory()
     sm = psutil.swap_memory()
@@ -45,8 +34,8 @@ elif(len(sys.argv) == 2):
         f = open('help_files/help_free.txt', 'r')
         print(f.read())
     elif(sys.argv[1] == "--version" or sys.argv[1] == "-v"):
-        print("free (sea shell) 1.0.0")
-    elif(sys.argv[1] == "treasure-map"):
+        print("free (shell of qarth) 1.0.0")
+    elif(sys.argv[1] == "runemap"):
         f = open('man_files/man_free.txt', 'r')
         print(f.read())
     else: 

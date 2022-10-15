@@ -1,11 +1,11 @@
-# CLAM SHELL
+# SHELL OF QARTH
 
 A custom *Lost at Sea* themed Linux shell that contains several default Linux commands as well as a few custom commands that we found as a necessary addition to the shell. We used Python 3.6.9 to build this custom shell.
 
 # What is a shell?
 A shell, although not part of the operating system, is the primary interface between the user and an operating system. It gathers inputs from a user (command line interpreter), executes programs based on the input by making system calls to the kernel, and displays corresponding outputs. The shell being the outermost layer of any operating system incorporates a programming language to control processes and files, as well as to start and control other programs. 
 
-# Setting up the Clam shell
+# Setting up the Shell of Qarth
 
 ### Prerequisties
 - A working python installation with either `pip` or `conda`, at least Python version >= 3.6. Verify the installation by running `python3 -V`. If not, install python from [here]()
@@ -35,7 +35,7 @@ Clam shell currently does not have a GUI of its own. It runs as a sub-shell of y
 
 If you have completed all the above steps successfully, then you should see a screen similar to the one below.
 
-![](https://github.com/Parthiv-M/sea-shell/blob/master/extras/seashell-help.png)
+![](https://github.com/Parthiv-M/sea-shell/blob/master/extras/shell.png)
 
 Congratulations! You have successfully run the Clam shell!
 

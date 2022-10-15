@@ -18,8 +18,8 @@ You were sold by a Westerosi merchant and wake up in Qarth, on the other side of
 Realising one of the Qarth's Thirteen bought you, 
 you need to collect every Runestone of the crown to help your prince ascend the throne. 
 
-Command Help
-============
+The 13 rune commands
+---------------------
 - garnet : Creates a new directory
 - topaz : Removes an existing empty directory 
 - pearl : Renames an existing directory 
@@ -34,9 +34,16 @@ Command Help
 - quartz : Print name of current/working directory
 - diamond : Display a list of all the active processes along with process ID
 
+=====================
+
+- astapor : List commands
+- lykiri : Clear screen
+- daor : Exit shell
+
+
 Worry not if you misplace or forget a stone. Fuzzy autocomplete helps you find the right stone every time.
 
 For further information on individual runestone, try running the commands with the --help flag. Every stone
-has its own manual page as well.
+has its own manual page as well, use the runemap suffix.
 
 Valar Morghulis!
