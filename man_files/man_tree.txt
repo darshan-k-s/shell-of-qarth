@@ -1,18 +1,18 @@
-TREASURE-TRAIL						SEA SHELL COMMAND MANUAL							TREASURE-TRAIL
+EMERALD						SHELL OF QARTH COMMAND MANUAL							
 
 NAME
-	treasure-trail -- Recursively display all files and directories stemming from the input directory
+	emerald -- Recursively display all files and directories stemming from the input directory
 
 SYNOPSIS
-	treasure-trail [DIRECTORY]
-	treasure-trail [--help]
+	emerald [DIRECTORY]
+	emerald [--help]
 
 DESCRIPTION
-	This manual page documents version 1.0.0 of the treasure-trail command.
+	This manual page documents version 1.0.0 of the emerald command.
 
 	Recurses through all entries of the input, displays all files, and repeats the process for all subdirectories.
 
 	If the input directory given is not valid, an error message is thrown.
 
 AUTHOR
-	Raghav Thakar
+	Darshan K S

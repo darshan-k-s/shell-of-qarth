@@ -1,15 +1,15 @@
-RADAR(1)                                    SEA SHELL COMMAND MANUAL                                      RADAR(1)
+DIAMOND                                    SHELL OF QARTH COMMAND MANUAL                                      
 
 NAME
-	radar -- display processes
+	diamond -- display processes
 
-SYNORADARIS
-	radar [options]
+SYNOdiamondIS
+	diamond [options]
 
 DESCRIPTION
-	This manual page documents version 1.0.0 of the radar command.
+	This manual page documents version 1.0.0 of the diamond command.
 
 	display a list of all the active processes along with their process ID, name and CPU percent.
 
 AUTHOR
-	Jayanth Shanmugam
+	Mitul Agarwal

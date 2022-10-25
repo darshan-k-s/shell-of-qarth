@@ -1,4 +1,4 @@
-Usage: radar
+Usage: diamond
 Display processes
 
     --help				display this help and exit

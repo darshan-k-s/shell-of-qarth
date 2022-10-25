@@ -1,16 +1,16 @@
-DISMANTLE(1)                        SEA SHELL COMMAND MANUAL                                       DISMANTLE(1)
+TOPAZ                        SHELL OF QARTH COMMAND MANUAL                                       
 
 NAME
-	dismantle -- remove a directory
+	topaz -- remove a directory
 
 SYNOPSIS
-	dismantle PARENT_DIRECTORY DIRECTORY_NAME
-	dismantle [--help]
+	topaz PARENT_DIRECTORY DIRECTORY_NAME
+	topaz [--help]
 
 DESCRIPTION
-	This manual page documents version 1.0.0 of the dismantle command.
+	This manual page documents version 1.0.0 of the topaz command.
 
 	Remove a directory in the PARENT_DIRECTORY with the name DIRECTORY_NAME, if they exist
 
 AUTHOR
-	Jayanth Shanmugam
+	Samir Kurup

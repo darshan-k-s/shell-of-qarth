@@ -1,14 +1,14 @@
-ENGINE						SEA SHELL COMMAND MANUAL							ENGINE
+OPAL						SHELL OF QARTH COMMAND MANUAL							
 
 NAME
-	engine -- Display amount of free memory and used memory in the system
+	opal -- Display amount of free memory and used memory in the system
 
 SYNOPSIS
-	engine [pid] 
-	engine [--help]
+	opal [pid] 
+	opal [--help]
 
 DESCRIPTION
-	This manual page documents version 1.0.0 of the engine command. 
+	This manual page documents version 1.0.0 of the opal command. 
 
 	Usage 1: Prints all the relevant memory info of the entire system. Includes total, used, shared, buffers... and swap memory info.
     Usage 2: Prints the memory usage of the process identified by the PID given, and its memory usage percentage
@@ -16,4 +16,4 @@ DESCRIPTION
 	If a given pid is not of a running process, an error message is printed.
 
 AUTHOR
-	Rithika Thirumeni
+	Darshan K S

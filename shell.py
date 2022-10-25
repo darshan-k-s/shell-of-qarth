@@ -5,23 +5,23 @@ from fuzzywuzzy import fuzz
 
 # shell command names
 shellCommands = [
-    "astapor", # help
-    "runemap", # treasure-map
-    "aquamarine", # dive
-    "amethyst", #  fish
-    "turquoise", # review
-    "garnet", # forge
-    "topaz", # dismantle
-    "pearl", # rename
-    "opal", #engine
-    "diamond", # radar   
-    "emerald", #treasure-trail
-    "sapphire", # glance
-    "quartz", # locate
-    "peridot", # cargo
-    "ruby", # kill
-    "lykiri", # wipe
-    "daor" # exit
+    "astapor", 
+    "runemap", 
+    "aquamarine", 
+    "amethyst", 
+    "turquoise", 
+    "garnet", 
+    "topaz", 
+    "pearl", 
+    "opal", 
+    "diamond",    
+    "emerald", 
+    "sapphire", 
+    "quartz", 
+    "peridot", 
+    "ruby", 
+    "lykiri", 
+    "daor" 
 ]
 
 def closestCommandFinder(command):

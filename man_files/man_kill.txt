@@ -1,18 +1,18 @@
-KILL						SEA SHELL COMMAND MANUAL							KILL
+RUBY						SHELL OF QARTH COMMAND MANUAL							
 
 NAME
-	kill — send a signal to a process to terminate it
+	ruby — send a signal to a process to terminate it
 
 SYNOPSIS
-	kill [PID]
-	kill [--help]
+	ruby [PID]
+	ruby [--help]
 
 DESCRIPTION
-	This manual page documents version 1.0.0 of the kill command. 
+	This manual page documents version 1.0.0 of the ruby command. 
 
 	The PID of a running process is specified, which will be forcefully termninated
 
 	If the given PID is not of a running process an appropriate error message is printed
 
 AUTHOR
-	Rithika Thirumeni
+	Pushkar Anand

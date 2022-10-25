@@ -1,4 +1,4 @@
-Usage: review [FILE...]
+Usage: turquoise [FILE...]
 Check a text file for spelling mistakes
 
     --help              display this help and exit

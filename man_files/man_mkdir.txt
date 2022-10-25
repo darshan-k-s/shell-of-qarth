@@ -1,14 +1,14 @@
-FORGE(1)                                    SEA SHELL COMMAND MANUAL                                      FORGE(1)
+GARNET                                    SHELL OF QARTH COMMAND MANUAL                                      
 
 NAME
-	forge -- make a directory
+	garnet -- make a directory
 
 SYNOPSIS
-	forge PARENT_DIRECTORY DIRECTORY_NAME
-	forge [--help]
+	garnet PARENT_DIRECTORY DIRECTORY_NAME
+	garnet [--help]
 
 DESCRIPTION
-	This manual page documents version 1.0.0 of the forge command.
+	This manual page documents version 1.0.0 of the garnet command.
 
 	Create a directory in the PARENT_DIRECTORY with the name DIRECTORY_NAME, if they donot already exist
 
@@ -16,4 +16,4 @@ DESCRIPTION
 		perm -- permissions for the created directory(default = 0777)
 
 AUTHOR
-	Jayanth Shanmugam	
+	Pushkar Anand	

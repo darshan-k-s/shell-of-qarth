@@ -1,7 +1,7 @@
 Usage: 
-    1. glance [FILENAME]
-    2. glance [>FILENAME]
-    3. glance [FILENAME1>>FILENAME2]
+    1. sapphire [FILENAME]
+    2. sapphire [>FILENAME]
+    3. sapphire [FILENAME1>>FILENAME2]
     
 View contents of file, Create new file/append input to file, append contents of one file to another
 

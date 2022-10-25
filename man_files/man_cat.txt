@@ -1,14 +1,14 @@
-GLANCE						SEA SHELL COMMAND MANUAL							GLANCE
+SAPPHIRE						SHELL OF QARTH COMMAND MANUAL							
 
 NAME
-	glance — concatenates files and prints as output
+	sapphire — concatenates files and prints as output
 
 SYNOPSIS
-	glance [>][FILENAME][>>FILENAME2] 
-	glance [--help]
+	sapphire [>][FILENAME][>>FILENAME2] 
+	sapphire [--help]
 
 DESCRIPTION
-	This manual page documents version 1.0.0 of the glance command. 
+	This manual page documents version 1.0.0 of the sapphire command. 
 
 	Usage 1: contents of file is printed on standard output
 	Usage 2: input from user is appended to file
@@ -17,4 +17,4 @@ DESCRIPTION
 	If a file with the given file name is not found, an error message is printed.
 
 AUTHOR
-	Rithika Thirumeni
+	Darshan K S

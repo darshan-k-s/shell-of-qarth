@@ -1,4 +1,4 @@
-Usage: fish [FILE...]
+Usage: amethyst [FILE...]
 Determine type of FILEs
 
     --help              display this help and exit
