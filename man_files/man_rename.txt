@@ -4,7 +4,7 @@ NAME
 	pearl -- rename a file or directory
 
 SYNOPSIS
-	pearl OLD_NAME NEW_NAME
+	pearl OLD_NAME.NEW_NAME
 	pearl [--help]
 
 DESCRIPTION

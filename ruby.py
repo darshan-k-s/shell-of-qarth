@@ -11,7 +11,7 @@ def kill(pid):
                 p.kill()
         except:
             pass
-    print("(%s): No such process"%(pid))
+    print("Process killed: (%s)"%(pid))
 
 if(len(sys.argv)==2):
     if(sys.argv[1] == '--help'):

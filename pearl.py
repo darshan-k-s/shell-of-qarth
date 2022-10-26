@@ -4,7 +4,7 @@ import sys
 def rnm(oldName, newName):    
     # Renames an existing file or directory
     
-    os.rename(oldName,newName);
+    os.rename(oldName,newName)
     print("Rename successful!\n")
 
 if(sys.argv[1] == '--help'):
@@ -16,4 +16,5 @@ elif(sys.argv[1] == "runemap"):
     f = open('man_files/man_rename.txt', 'r')        
     print(f.read())
 else:
-    rnm(sys.argv[1], sys.argv[2])
+    args = sys.argv[1].split(".")
+    rnm(args[0], args[1])

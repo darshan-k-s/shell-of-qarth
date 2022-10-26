@@ -39,4 +39,4 @@ If you have completed all the above steps successfully, then you should see a sc
 Congratulations! You have successfully run the Shell of Qarth!
 
 # Contributors
-The Shell of Qarth was built by a team of five people including [Darshan K S](https://github.com/darshan-k-s), Aayush Patney, Pushkar Anand, Mitul Agarwal and Samir Kurup.
+The Shell of Qarth was built by a team of five people including [Darshan K S](https://github.com/darshan-k-s), [Aayush Patney](https://github.com/aayushxx9302), Pushkar Anand, Mitul Agarwal and Samir Kurup.

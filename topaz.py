@@ -1,10 +1,10 @@
 import os
 import sys
 
-def remdir(directory, dirName):
+def remdir(dirName):
     # Takes a parent directory, directory name as parameters and remove a directory at the specified parent directory.
     
-    path = os.path.join(directory,dirName)
+    path = os.path.join(".",dirName)
     os.rmdir(path)
     print("Directory removed successfully!\n")
 
@@ -17,4 +17,4 @@ elif(sys.argv[1] == "runemap"):
     f = open('man_files/man_rmdir.txt', 'r')        
     print(f.read())
 else:
-    remdir(sys.argv[1], sys.argv[2])
+    remdir(sys.argv[1])
